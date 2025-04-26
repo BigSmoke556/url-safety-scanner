@@ -1,3 +1,7 @@
+![Go Version](https://img.shields.io/badge/Go-1.21-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 # 🌐 URL Safety Scanner (USS)
 
 A professional tool to analyze the security of URLs by checking for malware threats, forced downloads, cookies, and tracking mechanisms.  
