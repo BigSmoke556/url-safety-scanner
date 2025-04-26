@@ -1,0 +1,14 @@
+# Ignore Go build binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.out
+
+# Ignore local config files
+.safeurlchecker_config.json
+
+# Ignore build outputs
+dist/
+build/
